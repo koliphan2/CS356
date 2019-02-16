@@ -3,7 +3,17 @@ body {
     margin: 20px;
 }
   
+table{
+  border-collapse:separate;
+  border-spacing:20px 0;
+  text-align: center;
+  font-size: 30px;
+}
 
 .dropDown{
   display: block;
+}
+
+.song-list thead{
+  cursor: pointer;
 }
